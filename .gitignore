@@ -104,3 +104,4 @@ media/uploads
 commands.txt
 login.txt
 data.txt
+node_modules/
